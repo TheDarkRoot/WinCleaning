@@ -47,11 +47,11 @@ $ Press a key to continue.
 ```
 # Screenshot
 
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2001.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2001.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2002.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2002.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2003.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2003.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2004.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2004.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2005.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2005.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2006.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2006.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2007.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2007.png)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2008.png" width=250>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2008.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2001.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2001.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2002.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2002.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2003.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2003.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2004.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2004.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2005.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2005.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2006.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2006.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2007.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2007.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2008.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2008.png)
