@@ -15,10 +15,10 @@
 
 # Features
 
-- [x] **Automatic cleaning option.**
-- [x] **Supports Windows platforms.**
-- [x] **High function in low sizes.**
-- [x] **List of cleaning:**
+- [x] Automatic cleaning option.
+- [x] Supports Windows platforms.
+- [x] High function in low sizes.
+- [x] List of cleaning:
 ```
 - * Turn Off Browser:
 - } Chrome / Explore / Firefox / Safari / Opera / Dragon / Edge
