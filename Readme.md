@@ -10,9 +10,11 @@
 
 
 # Description
+
 - System cleaning software for Windows platforms.
 
 # Features
+
 - [x] **Automatic cleaning option.**
 - [x] **Supports Windows platforms.**
 - [x] **High function in low sizes.**
@@ -39,12 +41,16 @@
 - * Source Clean Folder / File:
 - } Temp / Prefetch / Windir / *.bak / *.db
 ``` 
+
 # Installation
+
+> ***Follow these steps.***
 ```
 $ Download software.
 $ Right click: Run as an administrator.
 $ Press a key to continue.
 ```
+
 # Screenshot
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2001.png" width=300>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/WinCleaning%2001.png)
