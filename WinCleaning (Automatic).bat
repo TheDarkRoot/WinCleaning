@@ -1,5 +1,5 @@
 @Echo Off
-title #TheDarkRoot (WinCleaning)
+title #TheDarkRoot (WinCleaning Automatic)
 color 1A
 Echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
 Echo º }}} #TheDarkRoot {{{ º
