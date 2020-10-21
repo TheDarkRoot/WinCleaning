@@ -1,9 +1,9 @@
 @Echo Off
 title #TheDarkRoot (WinCleaning)
 color 1A
-Echo ษออออออออออออออออออออออป
-Echo บ }}} #TheDarkRoot {{{ บ
-Echo ศออออออออออออออออออออออผ
+Echo รรรรรรรรรรรรรรรรรรรรรรรยป
+Echo ยบ }}} #TheDarkRoot {{{ ยบ
+Echo รรรรรรรรรรรรรรรรรรรรรรรยผ
 Echo.
 Echo Information:
 Echo }}} This program is encoded by #TheDarkRoot.
@@ -17,6 +17,25 @@ Echo.
 Echo  - Press a key to run the program...
 Echo.
 pause >nul
+:: BatchGotAdmin (Run as Admin code starts)
+REM --> Check for permissions
+>nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
+REM --> If error flag set, we do not have admin.
+if '%errorlevel%' NEQ '0' (
+Echo  # Requesting administrative privileges...
+goto UACPrompt
+) else ( goto gotAdmin )
+:UACPrompt
+Echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
+Echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
+"%temp%\getadmin.vbs"
+exit /B
+:gotAdmin
+if exist "%temp%\getadmin.vbs" ( del "%temp%\getadmin.vbs" )
+pushd "%CD%"
+CD /D "%~dp0"
+:: BatchGotAdmin (Run as Admin code ends)
+:: Your codes should start from the following line
 Echo.
 Echo  * Turn Off Browser:
 Echo    } Chrome / Explore / Firefox / Safari / Opera / Dragon / Edge
@@ -146,9 +165,9 @@ Echo.
 pause >nul
 Shutdown -s -t 30 -c "Cleaning Complete. Computer shuts down."
 Echo.
-Echo ษออออออออออออออออออออออป
-Echo บ }}} #TheDarkRoot {{{ บ
-Echo ศออออออออออออออออออออออผ
+Echo รรรรรรรรรรรรรรรรรรรรรรรยป
+Echo ยบ }}} #TheDarkRoot {{{ ยบ
+Echo รรรรรรรรรรรรรรรรรรรรรรรยผ
 Echo.
 Echo  * The computer shuts down in 30 seconds.
 Echo.
